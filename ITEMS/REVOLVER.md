@@ -7,6 +7,9 @@ Class:
 Lore:
 * Some guy thought it was a great idea to shove some toilet plungers into a revolver, but here we are. This piece of trash. It stinks. No, like it literally stinks.
 
+Hit Die:
+* Read Attacks
+
 Ammo:
 * Toilet Plungers
 * Infinite (magical)
@@ -27,4 +30,5 @@ Attacks:
     * Combines all 6 bullets into 1
     * To hit is 1d20 Double Disadvantage
     * If hits target, apply 6x Damage
+    * Natural 1 will cause the gun to explode as shrapnel within 15 ft of you
 
