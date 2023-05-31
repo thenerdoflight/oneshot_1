@@ -45,3 +45,11 @@ Actions:
   * 5d10 slashing
   * You chop off whatever was used to attack your teammate
     * Enemy has disadvantage until death
+* Water Breathing Technique - Forgiveness
+  * Player must align neutral or lawful good.
+  * Enemy must be in rampage/ suffering
+  * This can only be used once every long rest
+  * Usable when enemy is <= 50% HP
+    * Deals remaining HP worth of damage
+  * You forgive the enemy and attempts to see how things went so bad for them
+    * As you slice off their head, they smile, cry, and let mouth 'Thank you'
