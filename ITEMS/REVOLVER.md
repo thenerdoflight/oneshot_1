@@ -32,3 +32,4 @@ Attacks:
     * If hits target, apply 6x Damage
     * Natural 1 will cause the gun to explode as shrapnel within 15 ft of you
 
+#TODO: 4Bore Implementation.
