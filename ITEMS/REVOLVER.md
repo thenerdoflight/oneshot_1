@@ -10,6 +10,13 @@ Lore:
 Hit Die:
 * Read Attacks
 
+Weapon Conversion:
+* If you happen to have a barrel, you can take an entire turn to convert this into a makeshift rifle.
+    * Ways to obtain barrel
+        * Item Shop
+    * Advantage to hit die
+    * Unlocks Rambo and locks Fan
+
 Ammo:
 * Toilet Plungers
 * Infinite (magical)
@@ -19,7 +26,13 @@ Ammo:
         * 100% DC Save Fail -> No Roll
 
 Attacks:
-* Fan
+* Rambo (Rifle Only)
+    * For a brief moment, your rifle acts like a machine gun and spray uncontrollably from the hip
+    * Angle of attack: 45
+    * Anyone inside the cone
+        * DC DEX SAVE or DC CON SAVE
+          * Greater than 16
+* Fan (Revolver only)
     * Must have blindfold to use
     * Multi-target -> 1d20 Disadvantage per bullet
         * Must be greater than 14
@@ -32,4 +45,5 @@ Attacks:
     * If hits target, apply 6x Damage
     * Natural 1 will cause the gun to explode as shrapnel within 15 ft of you
 
-#TODO: 4Bore Implementation.
+Notes:
+Sizing: Assume normal is .22 then DeadEye will be 4Bore

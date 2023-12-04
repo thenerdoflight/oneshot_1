@@ -46,7 +46,7 @@ Actions:
   * You chop off whatever was used to attack your teammate
     * Enemy has disadvantage until death
 * Water Breathing Technique - Forgiveness
-  * Player must align neutral or lawful good.
+  * Player must align lawful good.
   * Enemy must be in rampage/ suffering
   * This can only be used once every long rest
   * Usable when enemy is <= 50% HP
