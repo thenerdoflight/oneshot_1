@@ -21,7 +21,7 @@ Hit Die:
 Attunement:
 * Can not be changed once attuned
 * Initial range is within arms reach of you
-* Can be attuned for and extra 5ft every 1 hour
+* Can be attuned for an extra 5ft every 1 hour
 * You will lose access to your class spell slots
 * Unlimited uses
 
